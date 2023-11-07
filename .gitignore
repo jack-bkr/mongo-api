@@ -1,3 +1,6 @@
+# Mongo URL
+dbURL.json
+
 # Logs
 logs
 *.log
